@@ -29,8 +29,7 @@ I am currently an undergraduate student and have been developing software for mo
   </p>
 
   <p align="center">
-      <img align="center" src="http://hits.dwyl.com/jayehernandez/jayehernandez.svg">
-    [![HitCount](http://hits.dwyl.com/Vedant1202/Vedant1202.svg)](http://hits.dwyl.com/Vedant1202/Vedant1202)
+      <img align="center" src="http://hits.dwyl.com/Vedant1202/Vedant1202.svg" alt="Github Hits">
     </a>
   </p>
 </p>
