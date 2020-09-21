@@ -1,4 +1,4 @@
-![Wall Image](https://raw.githubusercontent.com/Vedant1202/Vedant1202/master/assets/images/wall.png)
+![Wall Image](https://raw.githubusercontent.com/Vedant1202/Vedant1202/master/assets/images/wall4x.png)
 
 I am currently an undergraduate student and have been developing software for more than 3 years now. I mostly work on Javascript and Python projects ✨
 
