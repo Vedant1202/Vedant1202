@@ -19,7 +19,7 @@ I am currently an undergraduate student and have been developing software for mo
 
   <br>
 
-  [![Top Languages for Vedant](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant1202&show_icons=true&theme=nord&hide=html,jupyter+notebook&langs_count=10&layout=compact)]
+  ![Top Languages for Vedant](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant1202&show_icons=true&theme=nord&hide=html,jupyter+notebook&langs_count=10&layout=compact)
 
   <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vedant1202)] -->
 
