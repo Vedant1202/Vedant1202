@@ -2,6 +2,11 @@
 
 I am currently an undergraduate student and have been developing software for more than 3 years now. I mostly work on Javascript and Python projects ✨
 
+
+  <br>
+
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=Vedant1202&show_icons=true&theme=nord)
+
 <details>
   <summary>Wa-a-itt, there's more</summary>
   <br>
@@ -11,10 +16,6 @@ I am currently an undergraduate student and have been developing software for mo
   - I also work on Raspberry and am enthusiastic about cyber-security.👁
   - I also love to play football, read, draw and stargaze. ⚽️
   - Jamming to random music when coding, lmao. Non-stop. ⭐️
-
-    <br>
-
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=Vedant1202&show_icons=true&theme=nord)
   <br><br>
 </details>
 
