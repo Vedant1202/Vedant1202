@@ -3,6 +3,8 @@
 I am currently an undergraduate student and have been developing software for more than 3 years now. I mostly work on Javascript and Python projects ✨
 
 
+I also write at [Dev.to @Vedant1202](https://dev.to/vedant1202)
+
   <br>
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=Vedant1202&show_icons=true&theme=nord)
